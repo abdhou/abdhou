@@ -1,6 +1,6 @@
 # 👋 Hi, I'm a Senior Full-Stack Developer
 
-I’m a passionate **Senior Full-Stack Developer** with strong experience in designing, building, and maintaining scalable, secure, and maintainable applications. I enjoy working across the stack, from backend architecture to frontend user experiences, with a strong focus on clean code and best practices.
+I’m a passionate **Senior Full-Stack Developer**. I enjoy working across the stack, from backend architecture to frontend user experiences, with a strong focus on clean code and best practices.
 
 ---
 
